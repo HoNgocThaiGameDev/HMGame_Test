@@ -18,7 +18,7 @@ Thư mục này chứa **lời giải cho 3 bài test logic** Part 1 của đề
   - **GameManager** : lớp quản lý trạng thái game, mode game.
   - **TileManager** : quản lý các layer, các tile, trạng thái win, lose, hàm quan trọng UnlockNextLayer() sau khi chơi xong layer hiện tại thì mở khóa layer dưới
 - **How to use:** Mở folder này bằng Unity Hub, vào home scene để khởi tạo.
-- **Bug:** Đôi khi sẽ có bài bug nhỏ, vì đây là prototype nên em chưa kịp fix.
+- **Bug:** Đôi khi sẽ có vài bug nhỏ, vì đây là prototype nên em chưa kịp fix.
 
 ### 3. 📂 `Reskin_Part2` Reskin Version
 Đây là phiên bản Unity Project đã được **Reskin (Thay UI)**.
