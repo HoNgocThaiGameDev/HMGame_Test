@@ -5,7 +5,7 @@ Thư mục này chứa **lời giải cho 3 bài test logic** Part 1 của đề
 - **Aim:** Tập trung vào thuật toán và tư duy giải quyết vấn đề bằng C#, bao gồm các script xử lý các yêu cầu cụ thể của bài toán
 - **Comment code:** Hiểu flow, giải thích và cho ví dụ để dễ hiểu cách hoạt động của từng hàm.
 - **Link Video:** https://youtu.be/c-cEkl1MJ4w  (Nếu link video xem không được vui lòng mail giúp em hongocthaigamedev@gmail.com)
-- **How to use:** Mở file solution trong thư mục lớn, máy bạn có visual studio thì sẽ tự động mở dự án lên cho anh chị tesrt.
+- **How to use:** Mở file solution trong thư mục lớn, máy tính có visual studio thì sẽ tự động mở dự án lên cho anh chị tesrt.
 
 ### 2. 📂 `Demo Test Match 3 Fish_Part2` New Gameplay 
 Đây là Unity Project chứa **Source code gốc đã được thay đổi Gameplay**
