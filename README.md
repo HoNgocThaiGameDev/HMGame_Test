@@ -13,7 +13,5 @@ Thư mục này chứa **lời giải cho 3 bài test logic** Part 1 của đề
 
 ### 3. 📂 `Reskin_Part2` Reskin Version
 Đây là phiên bản Unity Project đã được **Reskin (Thay đổi giao diện)**.
-- Thay đổi Sprite, UI và các tài nguyên hình ảnh.
-- Giữ nguyên logic gameplay nhưng mang lại giao diện và trải nghiệm thị giác mới.
-
+- Thay đổi Sprite
 ---
