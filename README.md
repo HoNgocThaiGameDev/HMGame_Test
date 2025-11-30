@@ -12,7 +12,9 @@ Thư mục này chứa **lời giải cho 3 bài test logic** Part 1 của đề
 - **Mechanic:** Match-3 (Xếp hình).
 - **Mode:** 4 mode: chơi thường, chơi autoplay win, chơi auto play thua,mode tính thời gian và có thể reverse tấm tile về vị trí cũ
 - **Feature:** Cập nhật logic game, điều kiện thắng/thua và các tính năng gameplay mới dựa trên yêu cầu của Part 2.
-- **Description:** Gồm có các script core bao gồm BoardGenerator, AutoplayHandler, GameManager, TileManager trong folder Script xử lý các nhiệm vụ core theo yêu cầu bài toán đưa ra. 
+- **Description:** Gồm có các script core bao gồm BoardGenerator, AutoplayHandler, GameManager, TileManager trong folder Script xử lý các nhiệm vụ core theo yêu cầu bài toán đưa ra.
+- BoardGenerator: hàm core CreateSpriteBag() đóng vai trò sinh bộ 3, sau đó dùng thuật toán tráo bài shuffle để trộn vị trí, đảm bảo game có lời giải, GenerateBoard() để sinh lớp layer chơi, ResolveLayerDimensions() điều chỉnh kích thước layer.
+- 
 - **How to use:** Mở folder này bằng Unity Hub, vào home scene để khởi tạo.
 - **BUG:** Đôi khi sẽ có bài bug nhỏ, vì đây là prototype nên em chưa kịp fix.
 
