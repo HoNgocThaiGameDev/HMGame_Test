@@ -1,0 +1,8 @@
+D:\Test\HMGame_Test\HMGame_Test\bin\Debug\HMGame_Test.exe.config
+D:\Test\HMGame_Test\HMGame_Test\bin\Debug\HMGame_Test.exe
+D:\Test\HMGame_Test\HMGame_Test\bin\Debug\HMGame_Test.pdb
+D:\Test\HMGame_Test\HMGame_Test\obj\Debug\HMGame_Test.csproj.AssemblyReference.cache
+D:\Test\HMGame_Test\HMGame_Test\obj\Debug\HMGame_Test.csproj.CoreCompileInputs.cache
+D:\Test\HMGame_Test\HMGame_Test\obj\Debug\HMGame_Test.exe
+D:\Test\HMGame_Test\HMGame_Test\obj\Debug\HMGame_Test.pdb
+D:\Test\HMGame_Test\HMGame_Test\obj\Debug\HMGame_Test.exe.config
