@@ -21,6 +21,6 @@ Thư mục này chứa **lời giải cho 3 bài test logic** Part 1 của đề
 - **Bug:** Đôi khi sẽ có bài bug nhỏ, vì đây là prototype nên em chưa kịp fix.
 
 ### 3. 📂 `Reskin_Part2` Reskin Version
-Đây là phiên bản Unity Project đã được **Reskin (Thay đổi giao diện)**.
+Đây là phiên bản Unity Project đã được **Reskin (Thay UI)**.
 - Reskin art
 ---
